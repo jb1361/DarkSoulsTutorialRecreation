@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1278852528, guid: e20699a64490c4e4284b27a8aeb05666, type: 3}
+  m_Name: FemaleShortHair01
+  m_EditorClassIdentifier: 
+  slotName: 46656d616c6553686f7274486169723031
+  listID: 3
+  meshRenderer: {fileID: 13700000, guid: fa4a93a5849e0aa4fa205255c8adcf93, type: 3}
+  materialSample: {fileID: 2100000, guid: a1b30327501eda441907cfe7be685bc0, type: 2}
+  overlayScale: 1
+  umaBoneData: []
+  slotDNA: {fileID: 0}

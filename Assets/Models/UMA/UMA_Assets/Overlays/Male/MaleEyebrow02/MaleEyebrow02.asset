@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1772484567, guid: e20699a64490c4e4284b27a8aeb05666, type: 3}
+  m_Name: MaleEyebrow02
+  m_EditorClassIdentifier: 
+  overlayName: 4d616c6545796562726f773032
+  color:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  rect:
+    x: 384
+    y: 256
+    width: 256
+    height: 64
+  textureList:
+  - {fileID: 2800000, guid: c2a575cc8a9e34943b7c4a6d518a6e5a, type: 3}
+  - {fileID: 2800000, guid: 54b027ab86920d6429af2da8d73f1ac5, type: 3}
+  channelMask: []
+  channelAdditiveMask: []
+  tags: []
